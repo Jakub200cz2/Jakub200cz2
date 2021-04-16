@@ -10,6 +10,8 @@
 - 👯 I’m learning CSS, C++, HTML, JS and PHP
 - 🥅 2020 Goals: Try to code my best DISCORD BOT
 
+![PFP](https://sympy.xyz/images/profile.png)
+
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/11185601910?si=rYp6ZsSXT0emfIAnzEMo6g)
